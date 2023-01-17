@@ -3,7 +3,7 @@ public func multiply(n : Nat,m:Nat) : async Nat {
   return n*m;
 };
 public func volume(n : Nat) : async Nat {
-  return n*n;
+  return n*n*n;
 };
 public func hours_to_minute(n : Nat) : async Nat {
   return n*60;
