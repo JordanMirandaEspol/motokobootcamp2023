@@ -1,28 +1,35 @@
 # <a id="questions"> 🙋 Preguntas </a>
 
-1. Who controls the ledger canister?
+**1. Who controls the ledger canister?**
 
 Spanish
 
-En diciembre la memoria estable de un canister, fue llevada a los 48GiB.
+
 
 English
 
-In December the stable memory of a canister was brought to 48GiB.
 
-2. What is the subnet of the canister with the id: mwrha-maaaa-aaaab-qabqq-cai? How much nodes are running this subnet?
+
+**2. What is the subnet of the canister with the id: mwrha-maaaa-aaaab-qabqq-cai? How much nodes are running this subnet?**
 
 English
 
-The problem that the code presence is that it is trying to change the value of a let type variable which is immutable.
+
 
 Spanish
 
-El problema del código es que intenta cambiar el valor de una variable de tipo let la cual es inmutable.
 
-3. I have a neuron with 1O ICPs locked with a dissolve delay of 4 years - my neuron has been locked for 2 years. What is my expected voting power?
 
-4. What is wrong with the following code?
+**3. I have a neuron with 1O ICPs locked with a dissolve delay of 4 years - my neuron has been locked for 2 years. What is my expected voting power?**
+
+English
+
+
+
+Spanish
+
+
+**4. What is wrong with the following code?**
 ```
 actor {
   let n : Nat = 50;
@@ -42,7 +49,7 @@ Spanish
 
 El problema del codigo se encuentra en que se falta realizar el import Nat "mo:base/Nat";.
 
-5. What is wrong with the following code?
+**5. What is wrong with the following code?**
 ```
     actor {
     var languages : [var Text] = ["English", "German", "Chinese", "Japanese", "French"];
@@ -82,7 +89,7 @@ El problema del codigo, es un problema de sintaxis al declarar el array. Puesto 
 
 
  
-6. What is wrong with the following code?
+**6. What is wrong with the following code?**
 ```
 actor {
   var languages : [Text] = ["English", "German", "Chinese", "Japanese", "French"];
