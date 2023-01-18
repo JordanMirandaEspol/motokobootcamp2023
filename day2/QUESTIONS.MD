@@ -3,22 +3,22 @@
 **1. Who controls the ledger canister?**
 
 Spanish
-
+NNS
 
 
 English
-
+NNS
 
 
 **2. What is the subnet of the canister with the id: mwrha-maaaa-aaaab-qabqq-cai? How much nodes are running this subnet?**
 
 English
 
-
+pae4o-o6dxf-xki7q-ezclx-znyd6-fnk6w-vkv5z-5lfwh-xym2i-otrrw-fqe and 16 nodes.
 
 Spanish
 
-
+pae4o-o6dxf-xki7q-ezclx-znyd6-fnk6w-vkv5z-5lfwh-xym2i-otrrw-fqe y tiene 16 nodos
 
 **3. I have a neuron with 1O ICPs locked with a dissolve delay of 4 years - my neuron has been locked for 2 years. What is my expected voting power?**
 
