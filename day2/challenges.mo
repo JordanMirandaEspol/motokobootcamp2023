@@ -19,11 +19,11 @@ actor {
         prom:=sum/array.size();
        return prom; 
     };
-    public func count_character(t : Text, c : Char): async Nat{
+    public query func count_character(t : Text, c : Nat32): async Nat{
       var counter:Nat=0;
       for(car in t.chars()){
-        if (c==car){
-          counter:=counter+1;
+        if (car == Char.fromNat32(c)){
+          counter+=1;
         };
 
       };
